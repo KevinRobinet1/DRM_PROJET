@@ -96,8 +96,8 @@
                     <p>18/01/2022 - 12:42 [Jule Parish] : Exemple de notes 2 Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
                     <p>18/01/2022 - 11:58 [Jule Parish] : Exemple de notes Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
                     <ul class="list-inline banner-social-buttons">
-                        <li class="list-inline-item">&nbsp;<button class="btn btn-primary btn-lg btn-default" type="button"><i class="fa fa-google-plus fa-fw"></i><span class="network-name">&nbsp; Dernière info Google</span></button></li>
-                        <li class="list-inline-item">&nbsp;<button class="btn btn-primary btn-lg btn-default" type="button"><i class="fa fa-twitter fa-fw"></i><span class="network-name">&nbsp;Twitter #ukraine</span></button></li>
+                        <li class="list-inline-item">&nbsp;<a href="#google"><button class="btn btn-primary btn-lg btn-default" type="button"><i class="fa fa-google-plus fa-fw"></i><span class="network-name">&nbsp; Dernière info Google</span></button></a></li>
+                        <li class="list-inline-item">&nbsp;<a href="#twitter"><button class="btn btn-primary btn-lg btn-default" type="button"><i class="fa fa-twitter fa-fw"></i><span class="network-name">&nbsp;Twitter #ukraine</span></button></a> </li>
                         <li class="list-inline-item">&nbsp;<button class="btn btn-primary btn-lg btn-default" type="button"><i class="fa fa-rss"></i><span class="network-name">&nbsp;FLUX RSS</span></button></li>
                     </ul>
                 </div>
@@ -107,7 +107,7 @@
     <section class="text-center content-section" id="infoCollect">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 mx-auto">
+                <div id="google" class="col-lg-8 mx-auto">
                     <h2>collecte automatique</h2>
                     <h2></h2>
                     <h2>google</h2>
@@ -119,7 +119,7 @@
 
                 </div>
                 <center>
-                <div class="col-lg-8 mx-auto">
+                <div id="twitter" class="col-lg-8 mx-auto">
                 <br><br>
                     <h2>twitter</h2>
                     <br>
