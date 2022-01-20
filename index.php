@@ -139,12 +139,10 @@
                 </center>
                 <div class="col-lg-8 mx-auto">
                     <h2>flux rss</h2>
-                    <p>Feel free to leave us a comment on the<a href="#">&nbsp;Grayscale template overview page</a>&nbsp;to give some feedback about this theme!</p>
-                    <ul class="list-inline banner-social-buttons">
-                        <li class="list-inline-item">&nbsp;<button class="btn btn-primary btn-lg btn-default" type="button"><i class="fa fa-google-plus fa-fw"></i><span class="network-name">&nbsp; Google+</span></button></li>
-                        <li class="list-inline-item">&nbsp;<button class="btn btn-primary btn-lg btn-default" type="button"><i class="fa fa-twitter fa-fw"></i><span class="network-name">&nbsp;Twitter</span></button></li>
-                        <li class="list-inline-item">&nbsp;<button class="btn btn-primary btn-lg btn-default" type="button"><i class="fa fa-github fa-fw"></i><span class="network-name">&nbsp;github</span></button></li>
-                    </ul>
+                    <br>
+                    <img src="img/rss.png" alt="rss.png" height="80%" width="80%">
+                    <img src="img/rss1.png" alt="rss1.png" height="80%" width="80%">
+                    
                 </div>
             </div>
         </div>
