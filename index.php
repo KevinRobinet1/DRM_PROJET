@@ -140,8 +140,8 @@
                 <div class="col-lg-8 mx-auto">
                     <h2>flux rss</h2>
                     <br>
-                    <img src="img/rss.png" alt="rss.png" height="80%" width="80%">
-                    <img src="img/rss1.png" alt="rss1.png" height="80%" width="80%">
+                    <img src="img/rss.png" alt="rss.png" height="70%" width="80%">
+                    <img src="img/rss1.png" alt="rss1.png" height="70%" width="80%">
                     
                 </div>
             </div>
